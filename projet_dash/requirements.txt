@@ -1,0 +1,6 @@
+dash
+pandas
+folium
+branca
+plotly
+requests
